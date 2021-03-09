@@ -1,0 +1,5 @@
+{
+  "csharp.semanticHighlighting.enabled": true,
+  "omnisharp.useEditorFormattingSettings": true,
+  "editor.tabSize": 2
+}
